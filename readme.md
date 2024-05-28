@@ -1,0 +1,1 @@
+Estrutura semântica, página estruturada com Alternativo para cegos entenderem os contextos das imagens. Conceito de box model
